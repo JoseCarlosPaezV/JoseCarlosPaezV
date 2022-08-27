@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 | 6:00pm | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos |
 | 7:00pm | Programación Logica y Funcional | Programación Logica y Funcional | Programación Logica y Funcional | Programación Logica y Funcional | Programación Logica y Funcional |
 |        |                                 |                                 |                                 |                                 |                                 |
+
+
  ![](taco-gf4484f1da_1280.png)
