@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 
 |        | Lunes                           | Martes                          | Miercoles                       | Jueves                          | Viernes                         |
 |--------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| 1:00pm | Ecuaciones Diferenciales        | Ecuaciones Diferenciales        | Ecuaciones Diferenciales        | Ecuaciones Diferenciales        | Ecuaciones Diferenciales        |
-| 2:00pm | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   |                                 |
-| 3:00pm | Redes de Computadoras           | Redes de Computadoras           | Redes de Computadoras           | Redes de Computadoras           | Redes de Computadoras           |
-| 4:00pm | Lenguajes de Interfaz           | Lenguajes de Interfaz           | Lenguajes de Interfaz           | Lenguajes de Interfaz           |                                 |
-| 5:00pm | Lenguajes y Autonomas I         | Lenguajes y Autonomas I         | Lenguajes y Autonomas I         | Lenguajes y Autonomas I         | Lenguajes y Autonomas I         |
-| 6:00pm | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos |
-| 7:00pm | Programación Logica y Funcional | Programación Logica y Funcional | Programación Logica y Funcional | Programación Logica y Funcional | Programación Logica y Funcional |
+| 1:00pm | Ingenieria de Software   | Ingenieria de Software        | Ingenieria de Software        | Ingenieria de Software        | Ingenieria de Software        |
+| 2:00pm | Sistemas Programables   | Sistemas Programables   | Sistemas Programables   | Sistemas Programables   |                                 |
+| 3:00pm | Taller de Investigaión 1           | Taller de Investigaión 1           | Taller de Investigaión 1           | Taller de Investigaión 1           | Taller de Investigaión 1           |
+| 4:00pm | Patrones de diseño o software      | Patrones de diseño o software           | Patrones de diseño o software           | Patrones de diseño o software           |  Patrones de diseño o software                |
+| 5:00pm | Conmutación y Enrutamiento de Redes         | Conmutación y Enrutamiento de Redes         | Conmutación y Enrutamiento de Redes         | Conmutación y Enrutamiento de Redes         | Conmutación y Enrutamiento de Redes         |
+| 6:00pm | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 |
 |        |                                 |                                 |                                 |                                 |                                 |
 
 
