@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 4:00pm | Patrones de diseño o software      | Patrones de diseño o software           | Patrones de diseño o software           | Patrones de diseño o software           |  Patrones de diseño o software                |
 | 5:00pm | Conmutación y Enrutamiento de Redes         | Conmutación y Enrutamiento de Redes         | Conmutación y Enrutamiento de Redes         | Conmutación y Enrutamiento de Redes         | Conmutación y Enrutamiento de Redes         |
 | 6:00pm | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 |
-|        |                                 |                                 |                                 |                                 |                                 |
+
 
 
  ![](taco-gf4484f1da_1280.png)
