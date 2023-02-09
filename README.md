@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 |--------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | 1:00pm | Ingenieria de Software   | Ingenieria de Software        | Ingenieria de Software        | Ingenieria de Software        | Ingenieria de Software        |
 | 2:00pm | Sistemas Programables   | Sistemas Programables   | Sistemas Programables   | Sistemas Programables   |                                 |
-| 3:00pm | Taller de Investigaión 1           | Taller de Investigaión 1           | Taller de Investigaión 1           | Taller de Investigaión 1           | Taller de Investigaión 1           |
+| 3:00pm | Taller de Investigaión 1           | Taller de Investigaión 1           | Taller de Investigaión 1           | Taller de Investigaión 1           | 
 | 4:00pm | Patrones de diseño o software      | Patrones de diseño o software           | Patrones de diseño o software           | Patrones de diseño o software           |  Patrones de diseño o software                |
 | 5:00pm | Conmutación y Enrutamiento de Redes         | Conmutación y Enrutamiento de Redes         | Conmutación y Enrutamiento de Redes         | Conmutación y Enrutamiento de Redes         | Conmutación y Enrutamiento de Redes         |
 | 6:00pm | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 | Lenguajes y Automatas 2 |
